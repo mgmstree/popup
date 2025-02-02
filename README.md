@@ -12,7 +12,7 @@ A aplicação "PopupTeclas" é uma ferramenta que visa facilitar a manipulação
 - Permite navegar pelo histórico usando as setas "←" e "→" (ou as teclas de seta do teclado).
 - Atualiza o histórico em tempo real enquanto o usuário edita o texto no popup.
 **4. Ações com o Texto:**
-- **Salvar:** Permite salvar o texto editado em um arquivo `.txt` no local desejado pelo usuário, sem abrir o arquivo e sem exibir mensagem de sucesso.
+- **Salvar:** Permite salvar o texto editado em um arquivo `.txt` no local desejado pelo usuário.
 - **Enviar:** Cola o texto editado no campo ativo do sistema utilizando `Ctrl+V`, simulando a ação de colar, também utilizando a área de transferência.
 **5. Interface Personalizável:**
 - Janela com bordas 3D, cores personalizadas e botões com design limpo.
@@ -30,3 +30,4 @@ A aplicação "PopupTeclas" é uma ferramenta que visa facilitar a manipulação
 **8. Design Responsivo:**
 - O popup ajusta seu tamanho automaticamente de acordo com a quantidade de linhas do texto exibido.
 - A janela é centralizada na tela ao ser aberta pela primeira vez.
+-arraste com clique
